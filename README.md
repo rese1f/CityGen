@@ -2,4 +2,4 @@
 <a target="_blank"><img src="assets/logo.png" alt="logo" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
-# A Unified Animal Perception Model via Few-shot Learning
+# City-scale controllable 3D layout generation.
