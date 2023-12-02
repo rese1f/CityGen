@@ -4,7 +4,7 @@
 
 [![](http://img.shields.io/badge/cs.CV-arXiv%3A2312.xxxxx-B31B1B.svg)]()
 
-> **CityGen: Infinite and Controllable 3D City Layout Generatiot**  
+> **CityGen: Infinite and Controllable 3D City Layout Generation**  
 > Jie Deng<sup>♠️</sup>, Wenhao Chai<sup>♠️♥️</sup>, Jianshu Guo<sup>♠️</sup>, Qixuan Huang, Wenhao Hu, Jenq-Neng Hwang, Gaoang Wang✉️   
 > _arXiv 2023._  
 > <sup>♠️</sup> Equal contribution. <sup>♥️</sup> Project lead.
