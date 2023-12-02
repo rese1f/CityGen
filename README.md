@@ -1,2 +1,2 @@
-# CityGen website
-This page was adapted from [this](https://github.com/rese1f/MovieChat/tree/web) source code.
+# CityGen Page
+Modified from [this repo](https://github.com/eliahuhorwitz/Academic-project-page-template).
