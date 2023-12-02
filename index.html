@@ -184,7 +184,7 @@ CityGen demonstrates promising applicability in fields like smart cities, urban 
       <div class="content has-text-justified">
         <img src="static/images/dataset_pipeline.png" alt="MY ALT TEXT"/>
         <p>
-          In the Vision-Environment section, STEVE-13B plays the game according to specified tasks defined by the human player, collecting visual information through prismarine-viewer and capturing environmental information from the screen using Ray Tracing. Note that during the collection phase, the language instruction task is also performed. We simultaneously record and save the chat flow from the reasoning and decomposition stages. In the Question-Answering section, we obtain information from the Minecraft-Wiki and Reddit forums, and use GPT-3.5 to clean the data into Single-round QA pairs. In the Skill-Code section, we use GPT-3.5 combined with the human player's code to synthesize code snippets, and then check and revise them in the game environment.
+        <b>OSM Dataset Processing Pipeline.</b> We first populate 3D city models for real-world cities with various geospatial elements like buildings, roads, bodies of water, and vegetation. Subsequently, we render the 3D city models with Blender. Then, we develop a post-processing pipeline that consists of boundary refinement and color correction. 
         </p>
       </div>
       
