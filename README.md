@@ -25,8 +25,6 @@ In the initial step, we sample a local block from noise and extend it infinitely
 ![](assets/user_control.png)
 ### 3D layout
 ![](assets/3d_layout.png)
-### Rendering
-![](assets/rendering.png)
 
 ## ✏️ Citation
 
