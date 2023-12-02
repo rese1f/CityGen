@@ -1,4 +1,4 @@
-<img src="assets/logo.png" height="120px" align="right">
+<img src="assets/logo.png" height="100px" align="right">
 
 # CityGen: Infinite and Controllable 3D City Layout Generation
 
