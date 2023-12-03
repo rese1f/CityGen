@@ -5,9 +5,8 @@
 [![](http://img.shields.io/badge/cs.CV-arXiv%3A2312.xxxxx-B31B1B.svg)]()
 
 > **CityGen: Infinite and Controllable 3D City Layout Generation**  
-> Jie Deng<sup>♠️</sup>, Wenhao Chai<sup>♠️♥️</sup>, Jianshu Guo<sup>♠️</sup>, Qixuan Huang, Wenhao Hu, Jenq-Neng Hwang, Gaoang Wang✉️   
-> _arXiv 2023._  
-> <sup>♠️</sup> Equal contribution. <sup>♥️</sup> Project lead.
+> Jie Deng*, Wenhao Chai*, Jianshu Guo*, Qixuan Huang, Wenhao Hu, Jenq-Neng Hwang, Gaoang Wang✉️   
+> _arXiv 2023_  
 
 CityGen is a novel framework for infinite, controllable and diverse 3D city layout Generation. We propose an auto-regressive out-painting pipeline to extend the local layout to an infinite city layout. Moreover, we utilize a multi-scale diffusion model to generate controllable semantic field.
 
