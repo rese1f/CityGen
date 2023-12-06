@@ -2,7 +2,7 @@
 
 # CityGen: Infinite and Controllable 3D City Layout Generation
 
-[![](http://img.shields.io/badge/cs.CV-arXiv%3A2312.xxxxx-B31B1B.svg)]()
+[![](http://img.shields.io/badge/cs.CV-arXiv%3A2312.01508-B31B1B.svg)](https://arxiv.org/abs/2312.01508)
 
 > **CityGen: Infinite and Controllable 3D City Layout Generation**  
 > Jie Deng*, Wenhao Chai*, Jianshu Guo*, Qixuan Huang, Wenhao Hu, Jenq-Neng Hwang, Gaoang Wang✉️   
@@ -12,7 +12,7 @@ CityGen is a novel framework for infinite, controllable and diverse 3D city layo
 
 ## :fire: News
 * **[TBD]** : We will soon release our code, model weight, and dataset.
-* **[2023.12.xx]** :page_with_curl: We release the [paper]().
+* **[2023.12.3]** :page_with_curl: We release the [paper](https://arxiv.org/abs/2312.01508).
 
 ## 💡 Overview
 In the initial step, we sample a local block from noise and extend it infinitely through the auto-regressive outpainting process. Subsequently, we iteratively refine the global semantic field to achieve a more nuanced and polished global field. Following the refinement, height values are assigned to each class. After that, we integrate the semantic field with the height field to synthesize the 3D layout. Finally, by employing an image-to-image approach, we can effectively synthesize diverse city scenes.
