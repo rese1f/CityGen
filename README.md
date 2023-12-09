@@ -30,5 +30,10 @@ In the initial step, we sample a local block from noise and extend it infinitely
 If you find CityGen useful for your your research and applications, please cite using this BibTeX:
 
 ```bibtex
-
+@article{deng2023citygen,
+  title={CityGen: Infinite and Controllable 3D City Layout Generation},
+  author={Deng, Jie and Chai, Wenhao and Guo, Jianshu and Huang, Qixuan and Hu, Wenhao and Hwang, Jenq-Neng and Wang, Gaoang},
+  journal={arXiv preprint arXiv:2312.01508},
+  year={2023}
+}
 ```
