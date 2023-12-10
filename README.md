@@ -1,6 +1,6 @@
 <img src="assets/logo.png" height="100px" align="right">
 
-# CityGen: Infinite and Controllable 3D City Layout Generation
+# CityGen
 
 [![](http://img.shields.io/badge/cs.CV-arXiv%3A2312.01508-B31B1B.svg)](https://arxiv.org/abs/2312.01508)
 
